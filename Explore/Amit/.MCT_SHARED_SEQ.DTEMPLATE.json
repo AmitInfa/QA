@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "faraz",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-12-13T10:09:45.851Z",
+  "updateTime" : "2024-12-13T10:15:08.770Z",
   "objectRefs" : [ {
     "id" : "g2DGejgWhacejcQlxjilSD",
     "name" : "AMIT_SHARED_SEQ",

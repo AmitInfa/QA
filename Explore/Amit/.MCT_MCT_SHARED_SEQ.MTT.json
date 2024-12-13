@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-12-13T10:09:45.852Z",
+  "updateTime" : "2024-12-13T10:15:08.772Z",
   "objectRefs" : [ {
     "id" : "g2DGejgWhacejcQlxjilSD",
     "name" : "AMIT_SHARED_SEQ",
@@ -81,7 +81,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "faraz",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
