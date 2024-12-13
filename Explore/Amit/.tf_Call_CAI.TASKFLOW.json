@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "2RMy8SIZCEtir2JtrjutGr",
+    "name" : "tf_Call_CAI",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "HH0thJ6gaabclvA-gt-9728235-2024-10-02T15:38:29.534Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-12-13T10:09:45.852Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
